@@ -2,7 +2,7 @@
 
 This is a template for creating a landing page with Next.js and Chakra UI .
 
-[![Landing Page Demo](demo/demo.gif)
+![Landing Page Demo](demo/demo.gif)
 
 ## How it works
 
