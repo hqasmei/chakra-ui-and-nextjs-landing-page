@@ -3,7 +3,7 @@
 
 Use the app online at https://chakra-ui-and-nextjs-landing-page.vercel.app/
 
-
+![Chakra UI Landing Page - Animated gif demo](demo/demo.gif)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
