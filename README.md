@@ -1,6 +1,6 @@
-# [Landing Page using Next.js and Chakra UI](https://chakra-ui-and-nextjs-landing-page.vercel.app/)
+# [Chakra UI and Next.js Landing Page](https://chakra-ui-and-nextjs-landing-page.vercel.app/)
 
-This is a template for creating a landing page with Next.js and Chakra UI .
+This is a template for creating a landing page with Chakra UI and Next.js.
 
 ![Landing Page Demo](demo/demo2.gif)
 
